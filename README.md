@@ -42,6 +42,13 @@ git fetch #This will fetch the updates from the remote repo without merging it t
 
 git pull #This will fetch and merge the updates from the remote repo to the local repository.
 
+git reset --hard HEAD~1  #Uncommit and discard changes
+
+git branch -d branch-name  #To delete a branch
+
+git branch -D branch-name  #To forcefully delete a branch
+
+
 
 
 
